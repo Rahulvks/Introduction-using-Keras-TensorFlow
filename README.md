@@ -1,6 +1,7 @@
 # Introduction-using-Keras-TensorFlow
 
 #Model Explain 
+#Data Set - https://www.kaggle.com/joniarroba/noshowappointments
 
 
 #1: We use a constant seed for our random number generator to create the same pseudo-random numbers each time. This comes handy when we want to try different models and to compare their performances.
